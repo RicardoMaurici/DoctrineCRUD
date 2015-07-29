@@ -1,0 +1,3 @@
+Bug:
+  type: entity
+  repositoryClass: BugRepository
